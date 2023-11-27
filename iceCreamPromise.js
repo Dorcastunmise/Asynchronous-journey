@@ -16,8 +16,8 @@ let order = () => {
     })
 }
 order() ....step that preceeds the subsequent smaller tasks
-.then()
-.then() ....used according to the number of steps to execute
+.then() ....to get back resolved data
+.then() ....used according to the number of steps to execute 
 .catch() ...for error handling
 .finally() ....execute anyways
 
